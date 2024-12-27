@@ -1,7 +1,15 @@
 # ATM-Interface-in-Java-Console-Based-Application
 <hr>
 
-ATM interface in Java involves implementing a simple menu-driven application that allows users to perform basic banking operations such as checking their balance, depositing money, withdrawing money, and exiting the application.
+ATM interface in Java involves implementing a simple menu-driven application that allows users to perform basic banking operations 
+such as checking their balance, depositing money, withdrawing money, and exiting the application.
+
+The ATM Interface in Java is a console-based application designed to simulate the basic operations of an ATM. 
+This project includes functionalities such as user authentication, balance inquiry, deposit, withdrawal, and transaction history. 
+It is an excellent demonstration of core Java concepts such as classes, methods, arrays, loops, and exception handling. 
+This project serves as a practical exercise for applying object-oriented programming principles in real-world scenarios.
+
+
 
 **Class Definition:** 
 <hr>
