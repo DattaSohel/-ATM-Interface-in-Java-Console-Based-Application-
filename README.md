@@ -9,6 +9,8 @@ ATM interface in Java involves implementing a simple menu-driven application tha
 The ATMInterface class contains methods for handling ATM operations and managing user authentication.
 
 **Attributes:**
+<hr>
+<br>
 balance: Holds the user's account balance.
 isAuthenticated: A boolean flag to check if the user is authenticated.
 
