@@ -12,7 +12,7 @@ isAuthenticated: A boolean flag to check if the user is authenticated.
 
 **Methods:**
 
-<br> 
+<hr>
 
 authenticateUser(): Prompts the user to enter a PIN and checks it against a predefined value.
 displayMenu(): Displays the ATM menu options.
