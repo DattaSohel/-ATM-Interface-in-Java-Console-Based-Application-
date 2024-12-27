@@ -16,6 +16,7 @@ isAuthenticated: A boolean flag to check if the user is authenticated.
 <hr>
 
 authenticateUser(): Prompts the user to enter a PIN and checks it against a predefined value.
+<br>
 displayMenu(): Displays the ATM menu options.
 checkBalance(): Displays the current account balance.
 depositMoney(): Allows the user to deposit an amount into their account.
