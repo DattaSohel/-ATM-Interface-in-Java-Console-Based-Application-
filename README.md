@@ -28,9 +28,9 @@ isAuthenticated: A boolean flag to check if the user is authenticated.
 authenticateUser(): Prompts the user to enter a PIN and checks it against a predefined value.
 <br>
 displayMenu(): Displays the ATM menu options.
-checkBalance(): Displays the current account balance.
-depositMoney(): Allows the user to deposit an amount into their account.
-withdrawMoney(): Allows the user to withdraw an amount from their account, checking for sufficient funds.
-Main Loop: The start() method handles the main loop of the application, allowing users to select options until they choose to exit.
-Main Method: The entry point of the program where an instance of ATMInterface is created and started.
+<br>checkBalance(): Displays the current account balance.
+<br>depositMoney(): Allows the user to deposit an amount into their account.
+<br>withdrawMoney(): Allows the user to withdraw an amount from their account, checking for sufficient funds.
+<br>Main Loop: The start() method handles the main loop of the application, allowing users to select options until they choose to exit.
+<br>Main Method: The entry point of the program where an instance of ATMInterface is created and started.
 
